@@ -1,0 +1,18 @@
+C:\Documents and Settings\ffwtwn\Desktop\KeybStar\KeybStar\bin\Release\KeybStar.exe
+C:\Documents and Settings\ffwtwn\Desktop\KeybStar\KeybStar\bin\Release\KeybStar.pdb
+C:\Documents and Settings\ffwtwn\Desktop\KeybStar\KeybStar\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ffwtwn\Desktop\KeybStar\KeybStar\obj\x86\Release\KeybStar.KSmainForm.resources
+C:\Documents and Settings\ffwtwn\Desktop\KeybStar\KeybStar\obj\x86\Release\KeybStar.Properties.Resources.resources
+C:\Documents and Settings\ffwtwn\Desktop\KeybStar\KeybStar\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\ffwtwn\Desktop\KeybStar\KeybStar\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\ffwtwn\Desktop\KeybStar\KeybStar\obj\x86\Release\KeybStar.exe
+C:\Documents and Settings\ffwtwn\Desktop\KeybStar\KeybStar\obj\x86\Release\KeybStar.pdb
+C:\Users\slayer\Desktop\KeybStar\KeybStar\obj\x86\Release\KeybStar.exe
+C:\Users\slayer\Desktop\KeybStar\KeybStar\obj\x86\Release\KeybStar.pdb
+C:\Users\slayer\Desktop\KeybStar\KeybStar\bin\Release\KeybStar.exe
+C:\Users\slayer\Desktop\KeybStar\KeybStar\bin\Release\KeybStar.pdb
+C:\Users\slayer\Desktop\KeybStar\KeybStar\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\slayer\Desktop\KeybStar\KeybStar\obj\x86\Release\KeybStar.KSmainForm.resources
+C:\Users\slayer\Desktop\KeybStar\KeybStar\obj\x86\Release\KeybStar.Properties.Resources.resources
+C:\Users\slayer\Desktop\KeybStar\KeybStar\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\slayer\Desktop\KeybStar\KeybStar\obj\x86\Release\GenerateResource.write.1.tlog
